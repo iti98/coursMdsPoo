@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<!-- le langage xml est un langage de balises, comme HTML. Il permet de créer ses propres balises -->
+
+<config>
+<!-- les infos ci dessous concerne le projet en local. Le jour de la mise en ligne, il faudraz les modifier par celles fournies par votre hébergeur (toutes seront à modifier, sauf le nom de la ou les tables) -->
+    <host>localhost</host>
+    <dbname>oo_employe</dbname>
+    <user>root</user>
+    <password>root</password>
+    <table>employe</table>
+    <!-- si la base de données comporte plusieurs tables, on génère plusieurs balises tables en les numérotant -->
+    <!-- <table2>abonnes</table2> -->
+    <!-- <table3>clients</table3> -->
+</config>

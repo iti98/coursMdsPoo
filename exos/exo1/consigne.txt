@@ -1,0 +1,40 @@
+Dans ce fichier, déclarer une première classe Voiture. Elle aura une propriété, private, nommée
+$litresEssence.
+Dans ce même fichier, déclarer une seconde classe nommée Pompe. Elle aura les mêmes propriétés
+et méthodes, avec une méthode en plus, public, donnerLitresEssence() qui servira à donner de
+l’essence à la voiture
+/*
+------------------------------
+| Voiture |
+------------------------------
+| propriété $litresEssence |
+------------------------------
+| mérhode setLitresEssence |
+------------------------------
+| méthode getLitresEssence |
+------------------------------
+
+
+
+------------------------------
+| Pompe |
+------------------------------
+| propriété $litresEssence |
+------------------------------
+| méthode setLitresEssence |
+------------------------------
+| méthode getLitresEssence |
+------------------------------
+| méthode donnerLitresEssence |
+------------------------------
+
+
+1 Créer objet voiture1
+2 Lui donner de l'essence (5 litres)
+3 Afficher cette quantité
+4 Créer objet pompe1
+5 Lui donner de l'essence (500 litres)
+6 Afficher cette quantité
+7 La pompe donne 50 litres à la voiture
+8 Afficher la nouvelle quantité d'essence dans la voiture
+9 Afficher la nouvelle quantité d'essence dans la pompe 

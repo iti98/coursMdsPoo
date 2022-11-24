@@ -1,0 +1,17 @@
+dans une classe Vehicule, declarer trois méthodes -->
+demarrer qui retourne "Je demarre" -->
+carburant qui ne retourne rien -->
+nbTestsObligapublic toires qui retourne un entier 100 -->
+
+la classe Vehicule n'est pas instanciable -->
+sa méthode demarrer ne doit pas etre modifiable -->
+
+declarer une autre classe Renault, qui hérite de Vehicule -->
+elle fonctionne au diésel -->
+elle doit effectuer 30 test supplémentaires par rapport à la classe parent -->
+
+declarer une classe Peugeot, qui hérite de Vehicule -->
+elle fonctionne à l'essence -->
+elle doit effectuer 70 test supplémentaires par rapport à la classe parent -->
+
+faire tous les affichages necessaires pour récupérer tous les return -->
